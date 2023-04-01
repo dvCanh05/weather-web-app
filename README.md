@@ -1,4 +1,4 @@
 ## weather-web-app
-..*Create a weather website app using flask, html and css
-..*Copyright cloud weather 2023
-..*Reference: iamrudra-narayan
+1.  Create a weather website app using flask, html and css
+2.  Copyright cloud weather 2023
+3.  Reference: iamrudra-narayan
